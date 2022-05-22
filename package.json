@@ -1,6 +1,6 @@
 {
   "name": "rawg-api-sdk",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "",
   "author": "Levy Barbosa <marcio.levy20@gmail.com>",
   "main": "dist/index.js",

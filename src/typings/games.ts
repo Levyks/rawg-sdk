@@ -78,8 +78,8 @@ export interface ListGameRaw extends ListGame_ {
 }
 
 export interface ListGame extends ListGame_ {
-  released: Date;
-  updated: Date;
+  released: Date | undefined;
+  updated: Date | undefined;
 }
 
 export type ListGamesParams = PageParams &
